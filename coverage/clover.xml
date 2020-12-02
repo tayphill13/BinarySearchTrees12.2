@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1606949021070" clover="3.2.0">
+  <project timestamp="1606949021071" name="All files">
+    <metrics statements="31" coveredstatements="31" conditionals="20" coveredconditionals="19" methods="4" coveredmethods="4" elements="55" coveredelements="54" complexity="0" loc="31" ncloc="31" packages="1" files="2" classes="2"/>
+    <file name="bst-node.js" path="/Users/taylor/Desktop/BinarySearchTrees12.2/src/bst-node.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="3" count="35" type="stmt"/>
+      <line num="4" count="35" type="stmt"/>
+      <line num="5" count="35" type="stmt"/>
+    </file>
+    <file name="bst.js" path="/Users/taylor/Desktop/BinarySearchTrees12.2/src/bst.js">
+      <metrics statements="28" coveredstatements="28" conditionals="20" coveredconditionals="19" methods="3" coveredmethods="3"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="6" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="9" count="4" type="stmt"/>
+      <line num="10" count="4" type="stmt"/>
+      <line num="11" count="11" type="cond" truecount="2" falsecount="0"/>
+      <line num="12" count="3" type="stmt"/>
+      <line num="13" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="15" count="6" type="cond" truecount="1" falsecount="1"/>
+      <line num="16" count="6" type="stmt"/>
+      <line num="18" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="25" count="35" type="cond" truecount="2" falsecount="0"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="28" count="34" type="stmt"/>
+      <line num="29" count="34" type="stmt"/>
+      <line num="30" count="78" type="cond" truecount="2" falsecount="0"/>
+      <line num="31" count="25" type="cond" truecount="2" falsecount="0"/>
+      <line num="32" count="3" type="stmt"/>
+      <line num="33" count="3" type="stmt"/>
+      <line num="35" count="22" type="stmt"/>
+      <line num="37" count="53" type="cond" truecount="2" falsecount="0"/>
+      <line num="38" count="25" type="cond" truecount="2" falsecount="0"/>
+      <line num="39" count="3" type="stmt"/>
+      <line num="40" count="3" type="stmt"/>
+      <line num="42" count="22" type="stmt"/>
+      <line num="45" count="28" type="stmt"/>
+    </file>
+  </project>
+</coverage>
