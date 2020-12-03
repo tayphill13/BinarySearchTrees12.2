@@ -31,7 +31,7 @@ describe('binarySearchTree', () => {
     expect(pbst.search(7)).toEqual(true);
   });
 
-  test('it should return true if the tree includes 7', () => {
+  test('it should return true if the tree includes 5', () => {
     expect(pbst.search(5)).toEqual(true);
   });
 });
